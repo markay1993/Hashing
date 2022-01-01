@@ -1,0 +1,2 @@
+# Hashing
+reg password
